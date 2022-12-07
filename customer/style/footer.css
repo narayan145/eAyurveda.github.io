@@ -1,0 +1,19 @@
+.footer{
+	background-color: #005826;
+	padding:40px;
+	color:white;
+}
+.foota{
+	border-top:1px solid grey;
+	padding:20px;
+	margin-top: 30px;
+}
+.footer h4{
+	color:yellow;
+}
+.foota a{
+	color: white;
+}
+.fa{
+	color:white;
+}

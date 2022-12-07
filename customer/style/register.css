@@ -1,0 +1,23 @@
+.logina{
+	text-align: center;
+	background-color: #30a428;
+	padding:50px;
+	margin-top: 20px;
+	border-radius: 15px;
+	color:white;
+	padding:30px;
+}
+.loginc{
+	height:100vh;
+	/*padding:40px;*/
+	width: 100vw;
+	overflow:hidden;
+}
+.loginb .row{
+	margin-top: -720px;
+}
+.logind{
+	margin-top: -200px;
+}
+
+

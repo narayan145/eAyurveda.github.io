@@ -1,0 +1,236 @@
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700);
+.header{
+	background-color: #005826;
+	position:fixed;
+	top:0;
+	width: 100%;
+	z-index:100;
+}
+
+.navbar-header a{
+	text-align: center;
+	color:#dadc2a;
+	font-family: fantasy;
+	font-size: 20px;
+}
+.navbar-header a:hover{
+	color: white;
+
+}
+.navbar-nav>li>a{
+	color:#dadc2a;
+	font-size: 15px;
+	margin-top: 0px;
+}
+.navbar .navbar-toggle {
+	border-color: black;
+}
+.navbar-toggle .icon-bar {
+	background:black;
+}
+.facility{
+	margin-top: 70px;
+	padding-left: 0px !important;
+	padding-right:0px !important;
+	margin-right: auto;
+    margin-left: auto;
+}
+.faci{
+	position:fixed;
+	height:90vh;
+	overflow: hidden;
+}
+.facia img{
+	min-width:100%;
+	height: auto;
+}
+.lity{
+	margin-top:-300px;
+}
+.lity input[type=text]{
+	height: 35px;
+	width:280px;
+	border-radius: 5px;
+	border:1px solid #005826;
+}
+.lity input[type=text]:hover{
+	border:1px solid yellow;
+}
+.lity i{
+	padding:5px;
+}
+a.animated-button.thar-three {
+	color: #fff;
+	cursor: pointer;
+	display: block;
+	position: relative;
+	border: 2px solid #005826;
+	transition: all 0.9s cubic-bezier(0.42, 0, 0.58, 1);
+    background-color: #005826;
+    border-radius: 5px;
+    font-size: 14px;
+}
+a.animated-button.thar-three:hover {
+	color: #000 !important;
+	background-color: yellow;
+	border: 2px solid yellow;
+	text-shadow: nthree;
+}
+a.animated-button.thar-three:hover:before {
+	left: 0%;
+	right: auto;
+	width: 100%;
+}
+a.animated-button.thar-three:before {
+	display: block;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	height: 100%;
+	width: 0px;
+	z-index: -1;
+	content: '';
+	color: #000 !important;
+	background: #F7CA18;
+	transition: all 0.4s cubic-bezier(0.42, 0, 0.58, 1);
+}
+.service{
+	margin-top: 230px;
+}
+.services{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	text-align: center;
+	position:absolute;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+.treatment{
+	position:absolute;
+	margin-top: 200px;
+	text-align: center;
+}
+.treatment p{
+	font-size: 18px;
+	font-family: sans-serif;
+}
+.process{
+	margin-top: 500px;
+	text-align: center;
+	background-color: #e8e4e4;
+	padding:90px;
+}
+.process h1{
+	color:#005826;
+}
+.process p{
+	font-size: 18px;
+	font-family: sans-serif;
+}
+.processa{
+	padding:30px;
+}
+.ayurshop{
+	text-align: center;
+	padding:90px;
+	font-family: sans-serif;
+}
+.ayurshop p{
+	font-size: 18px;
+}
+.shop{
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.shopa p{
+	border-top:1px solid grey;
+	border-bottom:1px solid grey;
+	padding:10px;
+}
+.shop p a{
+	color:black;
+}
+.every{
+	padding:90px;
+	text-align: center;
+}
+.every h1{
+	color:#005826;
+}
+.every h4{
+	color:#005826;
+	text-align: center;
+}
+.every h2{
+	color:#005826;
+}
+.everya img{
+	margin:0 auto;
+}
+.everya p{
+	font-size: 18px;
+}
+.every p{
+	font-size: 22px;
+	text-align: center;
+}
+.footer{
+	background-color: #005826;
+	padding:80px;
+}
+.foot{
+	font-size: 20px;
+	font-weight: bold;
+}
+.foota{
+	border-bottom:1px solid #59a626;
+    width: 62px;
+}
+.footb{
+	display:flex;
+	flex-direction: row;
+}
+.footc{
+	padding:5px;
+}
+.footer a{
+	color:grey;
+}
+.footer a:hover{
+	color:yellow;
+	text-decoration: none;
+}
+.footd li{
+	height:30px;
+	width:30px;
+	border-radius: 50%;
+	border:1px solid #59a626;
+	padding:8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
